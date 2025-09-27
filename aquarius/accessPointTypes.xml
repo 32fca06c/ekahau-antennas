@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<accessPointTypes>
+  <accessPointType vendor="Aquarius" model="AQ-W6P201I">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" />
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6PE401I">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" />
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+    <radioType technology="ax" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+</accessPointTypes>
