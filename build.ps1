@@ -5,11 +5,11 @@ $antennas = "https://sw.ekahau.com/download/pro/antennas/antennas.zip"
 ######################
 
 if ($IsLinux) {
-    $path = "$HOME/Ekahau Pro/.settings/"
-} elseif ($IsWindows) {
-    $path = "$env:userprofile\Ekahau Pro\.settings\"
+    $path = "$HOME/Ekahau Pro/.settings/updates/"
+} elseif ($env:OS -eq 'Windows_NT' -or $IsWindows) {
+    $path = "$env:userprofile\Ekahau Pro\.settings\updates\"
 } elseif ($IsMacOS) {
-    $path = "$HOME\Library\Ekahau Pro\.settings\"
+    $path = "$HOME\Library\Ekahau Pro\.settings\updates\"
 } else {
     exit 1
 }
