@@ -1,5 +1,10 @@
-## Установка Powershell на Linux и macOS
+## Изменение политики сторонних скриптов на Windows  
+Запустить Powershell с правами администратора и выполнить следующую команду:  
+```
+Set-ExecutionPolicy unrestricted
+```
 
+## Установка Powershell на Linux и macOS
 https://learn.microsoft.com/ru-ru/powershell/scripting/install/installing-powershell
 
 ## Моё почтение
