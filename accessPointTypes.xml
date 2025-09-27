@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<accessPointTypes>
+  <accessPointType vendor="Sofinet" model="SFN320i-AP">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+</accessPointTypes>
