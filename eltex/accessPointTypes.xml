@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
 <accessPointTypes>
-  <!-- <accessPointType vendor="Eltex" model="WEP-12ac">
+<!--
+  <accessPointType vendor="Eltex" model="WEP-12ac">
     <radioType technology="n" frequencyBand="2.4" mimo="3x3" spatialStreams="3"/>
     <radioType technology="ac" frequencyBand="5" mimo="3x3" spatialStreams="3"/>
   </accessPointType>
   <accessPointType vendor="Eltex" model="WEP-2ac">
     <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
     <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
-  </accessPointType> -->
+  </accessPointType>
+-->
   <accessPointType vendor="Eltex" model="WEP-2L">
     <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
     <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
