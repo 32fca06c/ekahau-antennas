@@ -25,6 +25,14 @@
       <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="QTECH QANT-OD245805M 2.4GHz" defaultAntenna5="QTECH QANT-OD245805M 5GHz"/>
       <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz" defaultAntenna24="QTECH QANT-OD245805M 2.4GHz" defaultAntenna5="QTECH QANT-OD245805M 5GHz"/>
   </accessPointType>
+  <accessPointType vendor="QTECH" model="QWO-821D">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
+  </accessPointType>
+  <accessPointType vendor="QTECH" model="QWP-86">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="3x2" spatialStreams="2" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
   <accessPointType vendor="QTECH" model="QWO-880E + QANT-OD245805M">
     <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" defaultAntenna24="QTECH QANT-OD245805M 2.4GHz" defaultAntenna5="QTECH QANT-OD245805M 5GHz"/>
     <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" defaultAntenna24="QTECH QANT-OD245805M 2.4GHz" defaultAntenna5="QTECH QANT-OD245805M 5GHz"/>
