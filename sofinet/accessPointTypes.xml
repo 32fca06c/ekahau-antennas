@@ -4,4 +4,9 @@
     <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
     <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
   </accessPointType>
+  <accessPointType vendor="Sofinet" model="SFN300t-AP">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
 </accessPointTypes>
+
