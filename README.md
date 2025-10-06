@@ -12,3 +12,7 @@ https://learn.microsoft.com/ru-ru/powershell/scripting/install/installing-powers
 Замку G 2007 года рождения  
 Хлебобулочному изделию  
 Екарному Бабаю
+
+##
+.json должен быть LF
+.xml должен быть CRLF
