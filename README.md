@@ -14,5 +14,5 @@ https://learn.microsoft.com/ru-ru/powershell/scripting/install/installing-powers
 Екарному Бабаю
 
 ##
-.json должен быть LF
-.xml должен быть CRLF
+.json должен быть LF  
+.xml должен быть CRLF  
