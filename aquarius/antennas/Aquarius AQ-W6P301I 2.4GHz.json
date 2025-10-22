@@ -5,7 +5,7 @@
       "degrees": 0.0
     },
     "gains": [
-       {
+      {
         "angleInDegrees": 0.0,
         "dBi": -12.3
       },
@@ -591,7 +591,6 @@
         "angleInDegrees": 355.0,
         "dBi": 2.31
       }
-
     ],
     "type": "Elevation",
     "scaleMin": NaN,
@@ -603,7 +602,7 @@
       "vendor": "Aquarius"
     },
     "model": {
-      "model": "AQ-W6P201I"
+      "model": "AQ-W6P301I"
     }
   },
   "wcsMapping": {},

@@ -293,7 +293,6 @@
         "angleInDegrees": 355.0,
         "dBi": 5
       }
-
     ],
     "type": "Azimuth",
     "scaleMin": NaN,
@@ -592,7 +591,6 @@
         "angleInDegrees": 355.0,
         "dBi": -3.29
       }
-
     ],
     "type": "Elevation",
     "scaleMin": NaN,
