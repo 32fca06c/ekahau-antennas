@@ -1,8 +1,52 @@
 <?xml version="1.0"?>
 <accessPointTypes>
+  <accessPointType vendor="Aquarius" model="AQ-W6O202E + AQ-W-ANT-25O-8V-N-M">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" defaultAntenna24="Aquarius AQ-W-ANT-25O-8V-N-M 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz" defaultAntenna5="Aquarius AQ-W-ANT-25O-8V-N-M 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6P101I">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" />
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
   <accessPointType vendor="Aquarius" model="AQ-W6P201I">
     <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" />
     <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6P301C-internal-antenna">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" />
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6P301C + AQ-W-ANT-256O-4V-SMA-M">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" defaultAntenna24="Aquarius AQ-W-ANT-256O-4V-SMA-M 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz" defaultAntenna5="Aquarius AQ-W-ANT-256O-4V-SMA-M 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6P301E + AQ-W-ANT-256O-4V-SMA-M">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" defaultAntenna24="Aquarius AQ-W-ANT-256O-4V-SMA-M 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz" defaultAntenna5="Aquarius AQ-W-ANT-256O-4V-SMA-M 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6P301I">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" />
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6PE101I">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" />
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+    <radioType technology="ax" frequencyBand="6" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6PE401C-internal-antenna">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" />
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+    <radioType technology="ax" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6PE401C + AQ-W-ANT-256O-4V-SMA-M">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" defaultAntenna24="Aquarius AQ-W-ANT-256O-4V-SMA-M 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz" defaultAntenna5="Aquarius AQ-W-ANT-256O-4V-SMA-M 5GHz"/>
+    <radioType technology="ax" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz" defaultAntenna6="Aquarius AQ-W-ANT-256O-4V-SMA-M 6GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Aquarius" model="AQ-W6PE401E + AQ-W-ANT-256O-4V-SMA-M">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" defaultAntenna24="Aquarius AQ-W-ANT-256O-4V-SMA-M 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz" defaultAntenna5="Aquarius AQ-W-ANT-256O-4V-SMA-M 5GHz"/>
+    <radioType technology="ax" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz" defaultAntenna6="Aquarius AQ-W-ANT-256O-4V-SMA-M 6GHz"/>
   </accessPointType>
   <accessPointType vendor="Aquarius" model="AQ-W6PE401I">
     <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4" />
