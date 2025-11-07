@@ -300,7 +300,7 @@
   },
   "elevationPlane": {
     "alignment": {
-      "degrees": 0.0
+      "degrees": 270.0
     },
     "gains": [  
       {
