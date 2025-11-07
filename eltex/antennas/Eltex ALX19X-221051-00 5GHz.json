@@ -2,7 +2,7 @@
   "directional": false,
   "horizontalPlane": {
     "alignment": {
-      "degrees": 180.0
+      "degrees": 90.0
     },
     "gains": [
       {
