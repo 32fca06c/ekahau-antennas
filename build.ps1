@@ -51,5 +51,16 @@ foreach ($file in $json) {
     Copy-Item -Path $file.FullName -Destination $destination -Force
 }
 
+# Windows Hotfix for JSON
+if ($env:OS -eq 'Windows_NT' -or $IsWindows) {
+    $allJsonFiles = Get-ChildItem -Path $antennasPath -Filter "*.json" -Recurse -File
+    foreach ($file in $allJsonFiles) {
+        $content = Get-Content -Path $file.FullName -Raw
+        $content = $content -replace "`n", "`r`n"
+        $encoding = [System.Text.Encoding]::GetEncoding(1251)
+        [System.IO.File]::WriteAllText($file.FullName, $content, $encoding)
+    }
+}
+
 $newZipPath = Join-Path -Path $path -ChildPath "antennas.zip"
 Compress-Archive -Path "$antennasPath\*" -DestinationPath $newZipPath -Force
