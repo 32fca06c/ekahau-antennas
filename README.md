@@ -11,8 +11,8 @@ https://learn.microsoft.com/ru-ru/powershell/scripting/install/installing-powers
 
 Замку G 2007 года рождения  
 Хлебобулочному изделию  
-Екарному Бабаю
-Лучшей версии Java
+Екарному Бабаю  
+Лучшей версии Java  
 
 ##
 .json должен быть LF (для MacOS и Linux) и CRLF (для Windows)  
