@@ -14,6 +14,8 @@ https://github.com/32fca06c/ekahau-antennas/archive/refs/heads/main.zip
 ```
 выполнить скрипт `build.ps1` от имени непривилегированного пользователя  
 
+Рекомендуется отключение автоматического обновления паттернов антенн и точек доступа в меню: `File` -> `Preferences...` -> `Automatic antenna and AP updates`  
+
 ## Моё почтение
 
 Замку G 2007 года рождения  
