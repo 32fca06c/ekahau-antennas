@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<accessPointTypes>
+  <accessPointType vendor="Generic" model="Wi-Fi 4/5 Dual Radio">
+    <radioType technology="n" frequencyBand="2.4" mimo="3x3" spatialStreams="3"/>
+    <radioType technology="ac" frequencyBand="5" mimo="3x3" spatialStreams="3" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Generic" model="Wi-Fi 6 Dual Radio">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Generic" model="Wi-Fi 6E Tri-Band Radio">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+    <radioType technology="ax" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Generic" model="Wi-Fi 6E Dualband Radio">
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+    <radioType technology="ax" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+  </accessPointType>
+   <accessPointType vendor="Generic" model="Wi-Fi 6 2.4GHz Radio">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
+  </accessPointType>
+  <accessPointType vendor="Generic" model="Wi-Fi 7 Tri-Band Radio">
+    <radioType technology="be" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
+    <radioType technology="be" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+    <radioType technology="be" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="320MHz"/>
+  </accessPointType>
+  <accessPointType vendor="Generic" model="BLE beacon">
+    <radioType radioTechnology="bluetooth"  frequencyBand="2.4" defaultAntennaBluetooth="Generic 2.2dBi Omni BLE"/>
+  </accessPointType>
+  <accessPointType vendor="Ekahau" model="Example AP" defaultInAutoPlanning="true" default="true">
+    <radioType technology="be" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
+    <radioType technology="be" frequencyBand="5" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="160MHz"/>
+    <radioType technology="be" frequencyBand="6" mimo="4x4" spatialStreams="4" maxSupportedBandwidth="320MHz"/>
+    <radioType radioTechnology="bluetooth" frequencyBand="2.4" defaultAntennaBluetooth="Ekahau Example AP BLE"/>
+  </accessPointType>
+</accessPointTypes>

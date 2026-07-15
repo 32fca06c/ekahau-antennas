@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<accessPointTypes>
+  <accessPointType vendor="Eltex" model="WEP-12ac" >
+    <radioType technology="n" frequencyBand="2.4" mimo="3x3" spatialStreams="3"/>
+    <radioType technology="ac" frequencyBand="5" mimo="3x3" spatialStreams="3"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-2ac" >
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-2L" >
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-20L + ALX19X-221051-00">
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX19X-221051-00 2.4GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex ALX19X-221051-00 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-30L + ALX19X-221051-00">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX19X-221051-00 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex ALX19X-221051-00 5GHz"/>
+  </accessPointType>
+    <accessPointType vendor="Eltex" model="WOP-20L + RFE-2400500030MIMO2x2">
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex RFE-2400500030MIMO2x2 2.4GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex RFE-2400500030MIMO2x2 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-30L + RFE-2400500030MIMO2x2">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex RFE-2400500030MIMO2x2 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex RFE-2400500030MIMO2x2 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-20L + RFE-2400500060MIMO2x2">
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex RFE-2400500060MIMO2x2 2.4GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex RFE-2400500060MIMO2x2 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-30L + RFE-2400500060MIMO2x2">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex RFE-2400500060MIMO2x2 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex RFE-2400500060MIMO2x2 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-200L" >
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ac" frequencyBand="5" mimo="4x4" spatialStreams="4"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-3L" >
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-30L" >
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-50L" >
+    <radioType technology="be" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="be" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-3ax" >
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-30LS" >
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-3L-EX">
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>  
+  </accessPointType> 
+  <accessPointType vendor="Eltex" model="WEP-500K" >
+    <radioType technology="be" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="be" frequencyBand="5" mimo="3x3" spatialStreams="3"/>
+    <radioType technology="be" frequencyBand="6" mimo="3x3" spatialStreams="3"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-30LI + ALX24X-051050-00">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX24X-051050-00 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex ALX24X-091050-00 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WOP-2ac + ALX23X-051050-00">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX23X-051050-00 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex ALX23X-091050-00 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="Eltex" model="WEP-550K" >
+    <radioType technology="be" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
+    <radioType technology="be" frequencyBand="5" mimo="4x4" spatialStreams="4"/>
+    <radioType technology="be" frequencyBand="6" mimo="4x4" spatialStreams="4"/>
+  </accessPointType>
+</accessPointTypes>

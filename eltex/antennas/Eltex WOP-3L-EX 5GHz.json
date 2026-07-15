@@ -1,0 +1,612 @@
+{
+  "directional": false,
+  "horizontalPlane": {
+    "alignment": {
+      "degrees": 270.0
+    },
+    "gains": [
+      {
+        "angleInDegrees":0.0,
+        "dBi": 5.720
+      },
+      {
+        "angleInDegrees":5.0,
+        "dBi": 5.150
+      },
+      {
+        "angleInDegrees":10.0,
+        "dBi": 4.580
+      },
+      {
+        "angleInDegrees":15.0,
+        "dBi": 4.145
+      },
+      {
+        "angleInDegrees":20.0,
+        "dBi": 3.710
+      },
+      {
+        "angleInDegrees":25.0,
+        "dBi": 3.815
+      },
+      {
+        "angleInDegrees":30.0,
+        "dBi": 3.920
+      },
+      {
+        "angleInDegrees":35.0,
+        "dBi": 3.325
+      },
+      {
+        "angleInDegrees":40.0,
+        "dBi": 2.730
+      },
+      {
+        "angleInDegrees":45.0,
+        "dBi": 2.595
+      },
+      {
+        "angleInDegrees":50.0,
+        "dBi": 2.460
+      },
+      {
+        "angleInDegrees":55.0,
+        "dBi": 4.685
+      },
+      {
+        "angleInDegrees":60.0,
+        "dBi": 6.910
+      },
+      {
+        "angleInDegrees":65.0,
+        "dBi": 6.765
+      },
+      {
+        "angleInDegrees":70.0,
+        "dBi": 6.620
+      },
+      {
+        "angleInDegrees":75.0,
+        "dBi": 4.670
+      },
+      {
+        "angleInDegrees":80.0,
+        "dBi": 2.720
+      },
+      {
+        "angleInDegrees":85.0,
+        "dBi": 4.275
+      },
+      {
+        "angleInDegrees":90.0,
+        "dBi": 5.830
+      },
+      {
+        "angleInDegrees":95.0,
+        "dBi": 6.215
+      },
+      {
+        "angleInDegrees":100.0,
+        "dBi": 6.600
+      },
+      {
+        "angleInDegrees":105.0,
+        "dBi": 6.860
+      },
+      {
+        "angleInDegrees":110.0,
+        "dBi": 7.120
+      },
+      {
+        "angleInDegrees":115.0,
+        "dBi": 6.220
+      },
+      {
+        "angleInDegrees":120.0,
+        "dBi": 5.320
+      },
+      {
+        "angleInDegrees":125.0,
+        "dBi": 4.375
+      },
+      {
+        "angleInDegrees":130.0,
+        "dBi": 3.430
+      },
+      {
+        "angleInDegrees":135.0,
+        "dBi": 3.440
+      },
+      {
+        "angleInDegrees":140.0,
+        "dBi": 3.450
+      },
+      {
+        "angleInDegrees":145.0,
+        "dBi": 3.930
+      },
+      {
+        "angleInDegrees":150.0,
+        "dBi": 4.410
+      },
+      {
+        "angleInDegrees":155.0,
+        "dBi": 3.545
+      },
+      {
+        "angleInDegrees":160.0,
+        "dBi": 2.680
+      },
+      {
+        "angleInDegrees":165.0,
+        "dBi": 2.870
+      },
+      {
+        "angleInDegrees":170.0,
+        "dBi": 3.060
+      },
+      {
+        "angleInDegrees":175.0,
+        "dBi": 3.185
+      },
+      {
+        "angleInDegrees":180.0,
+        "dBi": 3.310
+      },
+      {
+        "angleInDegrees":185.0,
+        "dBi": 3.335
+      },
+      {
+        "angleInDegrees":190.0,
+        "dBi": 3.360
+      },
+      {
+        "angleInDegrees":195.0,
+        "dBi": 3.680
+      },
+      {
+        "angleInDegrees":200.0,
+        "dBi": 4
+      },
+      {
+        "angleInDegrees":205.0,
+        "dBi": 3.170
+      },
+      {
+        "angleInDegrees":210.0,
+        "dBi": 2.340
+      },
+      {
+        "angleInDegrees":215.0,
+        "dBi": 2.650
+      },
+      {
+        "angleInDegrees":220.0,
+        "dBi": 2.960
+      },
+      {
+        "angleInDegrees":225.0,
+        "dBi": 2.770
+      },
+      {
+        "angleInDegrees":230.0,
+        "dBi": 2.580
+      },
+      {
+        "angleInDegrees":235.0,
+        "dBi": 2.475
+      },
+      {
+        "angleInDegrees":240.0,
+        "dBi": 2.370
+      },
+      {
+        "angleInDegrees":245.0,
+        "dBi": 2.265
+      },
+      {
+        "angleInDegrees":250.0,
+        "dBi": 2.160
+      },
+      {
+        "angleInDegrees":255.0,
+        "dBi": 2.370
+      },
+      {
+        "angleInDegrees":260.0,
+        "dBi": 2.580
+      },
+      {
+        "angleInDegrees":265.0,
+        "dBi": 2.325
+      },
+      {
+        "angleInDegrees":270.0,
+        "dBi": 2.070
+      },
+      {
+        "angleInDegrees":275.0,
+        "dBi": 3.070
+      },
+      {
+        "angleInDegrees":280.0,
+        "dBi": 4.070
+      },
+      {
+        "angleInDegrees":285.0,
+        "dBi": 4.570
+      },
+      {
+        "angleInDegrees":290.0,
+        "dBi": 5.070
+      },
+      {
+        "angleInDegrees":295.0,
+        "dBi": 5.320
+      },
+      {
+        "angleInDegrees":300.0,
+        "dBi": 5.570
+      },
+      {
+        "angleInDegrees":305.0,
+        "dBi": 6.315
+      },
+      {
+        "angleInDegrees":310.0,
+        "dBi": 7.060
+      },
+      {
+        "angleInDegrees":315.0,
+        "dBi": 7.110
+      },
+      {
+        "angleInDegrees":320.0,
+        "dBi": 7.160
+      },
+      {
+        "angleInDegrees":325.0,
+        "dBi": 6.190
+      },
+      {
+        "angleInDegrees":330.0,
+        "dBi": 5.220
+      },
+      {
+        "angleInDegrees":335.0,
+        "dBi": 4.880
+      },
+      {
+        "angleInDegrees":340.0,
+        "dBi": 4.540
+      },
+      {
+        "angleInDegrees":345.0,
+        "dBi": 3.980
+      },
+      {
+        "angleInDegrees":350.0,
+        "dBi": 3.420
+      },
+      {
+        "angleInDegrees":355.0,
+        "dBi": 4.42
+      }
+    ],
+    "type": "Azimuth",
+    "scaleMin": NaN,
+    "scaleMax": NaN
+  },
+  "elevationPlane": {
+    "alignment": {
+      "degrees": 180.0
+    },
+    "gains": [
+      {
+        "angleInDegrees":0.0,
+        "dBi": 5.520
+      },
+      {
+        "angleInDegrees":5.0,
+        "dBi": 3.810
+      },
+      {
+        "angleInDegrees":10.0,
+        "dBi": 2.100
+      },
+      {
+        "angleInDegrees":15.0,
+        "dBi": 1.475
+      },
+      {
+        "angleInDegrees":20.0,
+        "dBi": 0.8500
+      },
+      {
+        "angleInDegrees":25.0,
+        "dBi": -1.230
+      },
+      {
+        "angleInDegrees":30.0,
+        "dBi": -3.310
+      },
+      {
+        "angleInDegrees":35.0,
+        "dBi": -3.845
+      },
+      {
+        "angleInDegrees":40.0,
+        "dBi": -4.380
+      },
+      {
+        "angleInDegrees":45.0,
+        "dBi": -5.300
+      },
+      {
+        "angleInDegrees":50.0,
+        "dBi": -6.220
+      },
+      {
+        "angleInDegrees":55.0,
+        "dBi": -6.075
+      },
+      {
+        "angleInDegrees":60.0,
+        "dBi": -5.930
+      },
+      {
+        "angleInDegrees":65.0,
+        "dBi": -4.930
+      },
+      {
+        "angleInDegrees":70.0,
+        "dBi": -3.930
+      },
+      {
+        "angleInDegrees":75.0,
+        "dBi": -3.970
+      },
+      {
+        "angleInDegrees":80.0,
+        "dBi": -4.010
+      },
+      {
+        "angleInDegrees":85.0,
+        "dBi": -4.170
+      },
+      {
+        "angleInDegrees":90.0,
+        "dBi": -4.330
+      },
+      {
+        "angleInDegrees":95.0,
+        "dBi": -4.140
+      },
+      {
+        "angleInDegrees":100.0,
+        "dBi": -3.950
+      },
+      {
+        "angleInDegrees":105.0,
+        "dBi": -5.380
+      },
+      {
+        "angleInDegrees":110.0,
+        "dBi": -6.810
+      },
+      {
+        "angleInDegrees":115.0,
+        "dBi": -7.575
+      },
+      {
+        "angleInDegrees":120.0,
+        "dBi": -8.340
+      },
+      {
+        "angleInDegrees":125.0,
+        "dBi": -8.460
+      },
+      {
+        "angleInDegrees":130.0,
+        "dBi": -8.580
+      },
+      {
+        "angleInDegrees":135.0,
+        "dBi": -7.620
+      },
+      {
+        "angleInDegrees":140.0,
+        "dBi": -6.660
+      },
+      {
+        "angleInDegrees":145.0,
+        "dBi": -7.120
+      },
+      {
+        "angleInDegrees":150.0,
+        "dBi": -7.580
+      },
+      {
+        "angleInDegrees":155.0,
+        "dBi": -6.790
+      },
+      {
+        "angleInDegrees":160.0,
+        "dBi": -6
+      },
+      {
+        "angleInDegrees":165.0,
+        "dBi": -6.330
+      },
+      {
+        "angleInDegrees":170.0,
+        "dBi": -6.660
+      },
+      {
+        "angleInDegrees":175.0,
+        "dBi": -1.715
+      },
+      {
+        "angleInDegrees":180.0,
+        "dBi": 3.230
+      },
+      {
+        "angleInDegrees":185.0,
+        "dBi": 3.640
+      },
+      {
+        "angleInDegrees":190.0,
+        "dBi": 4.050
+      },
+      {
+        "angleInDegrees":195.0,
+        "dBi": 1.780
+      },
+      {
+        "angleInDegrees":200.0,
+        "dBi": -0.4900
+      },
+      {
+        "angleInDegrees":205.0,
+        "dBi": 0.3700
+      },
+      {
+        "angleInDegrees":210.0,
+        "dBi": 1.230
+      },
+      {
+        "angleInDegrees":215.0,
+        "dBi": 1.715
+      },
+      {
+        "angleInDegrees":220.0,
+        "dBi": 2.200
+      },
+      {
+        "angleInDegrees":225.0,
+        "dBi": 1.925
+      },
+      {
+        "angleInDegrees":230.0,
+        "dBi": 1.650
+      },
+      {
+        "angleInDegrees":235.0,
+        "dBi": -0.4500
+      },
+      {
+        "angleInDegrees":240.0,
+        "dBi": -2.550
+      },
+      {
+        "angleInDegrees":245.0,
+        "dBi": -1.060
+      },
+      {
+        "angleInDegrees":250.0,
+        "dBi": 0.4300
+      },
+      {
+        "angleInDegrees":255.0,
+        "dBi": 0.9800
+      },
+      {
+        "angleInDegrees":260.0,
+        "dBi": 1.530
+      },
+      {
+        "angleInDegrees":265.0,
+        "dBi": -1.130
+      },
+      {
+        "angleInDegrees":270.0,
+        "dBi": -3.790
+      },
+      {
+        "angleInDegrees":275.0,
+        "dBi": -1.815
+      },
+      {
+        "angleInDegrees":280.0,
+        "dBi": 0.1600
+      },
+      {
+        "angleInDegrees":285.0,
+        "dBi": 1.645
+      },
+      {
+        "angleInDegrees":290.0,
+        "dBi": 3.130
+      },
+      {
+        "angleInDegrees":295.0,
+        "dBi": 2.655
+      },
+      {
+        "angleInDegrees":300.0,
+        "dBi": 2.180
+      },
+      {
+        "angleInDegrees":305.0,
+        "dBi": 2.020
+      },
+      {
+        "angleInDegrees":310.0,
+        "dBi": 1.860
+      },
+      {
+        "angleInDegrees":315.0,
+        "dBi": 3.685
+      },
+      {
+        "angleInDegrees":320.0,
+        "dBi": 5.510
+      },
+      {
+        "angleInDegrees":325.0,
+        "dBi": 3.415
+      },
+      {
+        "angleInDegrees":330.0,
+        "dBi": 1.320
+      },
+      {
+        "angleInDegrees":335.0,
+        "dBi": 1.625
+      },
+      {
+        "angleInDegrees":340.0,
+        "dBi": 1.930
+      },
+      {
+        "angleInDegrees":345.0,
+        "dBi": 4.095
+      },
+      {
+        "angleInDegrees":350.0,
+        "dBi": 6.260
+      }
+    ],
+    "type": "Elevation",
+    "scaleMin": NaN,
+    "scaleMax": NaN
+  },
+  "frequencyBand": "FIVE",
+  "accessPointVendorModel": {
+    "vendor": {
+      "vendor": "Eltex"
+    },
+    "model": {
+      "model": "WOP-3L-EX"
+    }
+  },
+  "wcsMapping": {},
+  "defaultTiltAngle": {
+    "degrees": 0.0
+  },
+  "manufacturerMaximumGain": NaN,
+  "antennaTechnology": "WIFI",
+  "defaultMounting": "FLOOR",
+  "apCoupling": "INTERNAL_ANTENNA"
+}
